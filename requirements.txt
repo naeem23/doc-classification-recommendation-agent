@@ -1,0 +1,7 @@
+sentence-transformers
+sqlalchemy
+pypdf
+python-docx
+numpy
+scikit-learn
+typer
